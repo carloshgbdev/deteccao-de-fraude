@@ -40,6 +40,6 @@ After, download [dataset](https://www.kaggle.com/datasets/mlg-ulb/creditcardfrau
   <img src="https://contrib.rocks/image?repo=carloshgbdev/deteccao-de-fraude" />
 </a>
 
-Pedro Saraiva | Carlos Henrique | Daniel Pinheiro | Guilherme Frazão | Gabriel Macedo
+Pedro Saraiva | Carlos Henrique | {commit nome do daniel} | {commit nome do frazo} | {commit nome do gabriel}
 
 Made with [contrib.rocks](https://contrib.rocks).
