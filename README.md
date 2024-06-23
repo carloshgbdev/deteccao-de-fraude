@@ -10,6 +10,10 @@
 
 Repositorio para detecção de fraudes em cartão de credito, usando Deep Learning. Trabalho final da materia de Pensamento Analitico de Dados
 
+Nâo Consegui commitar o dataset, então será preciso baixar ele localmente
+
+
+
 Below is AGEMC of this project, similar to  CRISP-DM.
 
 ### A - Ask a Question
@@ -34,6 +38,19 @@ To install dependencies, run:
     pip install -r requirements.txt
 
 Use venv or locally
+
+venv:
+Ambiente virtual em que os pacotes estão instalados para que facilite para o código rodar:
+
+1 - Mude o interpretador de python para o "venv", aperte "Cntl + shift + p" e clique em "Selecione o Interprete de python"
+
+2 - Ative o ambiente virtual, Windows: ".\venv\Scripts\activate" , Linux/Mac Os: "source venv/bin/activate" 
+
+3 - Caso tenha problemas com o "ipykernel", o ambiente não está dentro do kernel certo, com isso precisamos altera-ló,
+dentro do notebook, no canto superior direito clique no kernel mostrando a versão de python e escolha o que tenha no nome 
+"venv_kernel" antes da versão do python, com isso o ambiente será ativado completamente
+
+4 - Quando acabar de rodar desativar o ambiente virtual, "deactivate"
 
 After, download [dataset](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud?resource=download).
 
