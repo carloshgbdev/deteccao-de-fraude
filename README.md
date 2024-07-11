@@ -44,7 +44,7 @@ Além disso foi testado diferentes arquiteturas de AutoEncoder como VAE. Entreta
 
 Para detecção de outliers criamos um modelo de aprendizado não supervisionado que não depende de labels para classificar os resultados em uma matrix de confusão
 
-![imagem](/deteccao-de-fraude/assets/images/output.png)
+![imagem](deteccao-de-fraude/assets/images/output.png)
 
 A nossa resolução é melhor pois não depende de uma transação fraudulente acontecer para treinar o modelo, o nosso consegue detectar o crime mesmo que seja uma nova forma de fraudular uma transação. 
 
