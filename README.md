@@ -1,4 +1,3 @@
-# Credit Card Fraud Detection
 
 ![](https://img.shields.io/github/languages/top/carloshgbdev/deteccao-de-fraude
 ) ![](https://img.shields.io/badge/Deep_Learning-blue
@@ -6,13 +5,12 @@
 ) ![](https://img.shields.io/badge/UFG-BIA-orange
 )
 
+# Credit Card Fraud Detection
+
+
 ### [Installation](#installation) | [Links](#links) | [Contribuitors](#contribution)
 
-Repositorio para detecção de fraudes em cartão de credito, usando Deep Learning. Trabalho final da materia de Pensamento Analitico de Dados
-
-Nâo Consegui commitar o dataset, então será preciso baixar ele localmente
-
-
+Repository for credit card fraud detection using Deep Learning. Final project for the Data Analytical Thinking course.
 
 Below is AGEMC of this project, similar to  CRISP-DM.
 
@@ -63,30 +61,32 @@ To install dependencies, run:
 
 Use venv or locally
 
-venv:
-Ambiente virtual em que os pacotes estão instalados para que facilite para o código rodar:
+### venv:
 
-1 - Mude o interpretador de python para o "venv", aperte "Cntl + shift + p" e clique em "Selecione o Interprete de python"
+A virtual environment where the packages are installed to facilitate running the code:
 
-2 - Ative o ambiente virtual, Windows: ".\venv\Scripts\activate" , Linux/Mac Os: "source venv/bin/activate" 
+Change the Python interpreter to the "venv": Press "Ctrl + Shift + P" and click on "Select Python Interpreter."
 
-3 - Caso tenha problemas com o "ipykernel", o ambiente não está dentro do kernel certo, com isso precisamos altera-ló,
-dentro do notebook, no canto superior direito clique no kernel mostrando a versão de python e escolha o que tenha no nome 
-"venv_kernel" antes da versão do python, com isso o ambiente será ativado completamente
+Activate the virtual environment:
 
-4 - Quando acabar de rodar desativar o ambiente virtual, "deactivate"
+    Windows: .\venv\Scripts\activate
+    Linux/Mac OS: source venv/bin/activate
+
+If you encounter issues with "ipykernel," the environment is not within the correct kernel. To fix this, inside the notebook, click on the kernel shown in the top right corner, displaying the Python version, and choose the one that includes "venv_kernel" before the Python version. This will fully activate the environment.
+
+When finished running the code, deactivate the virtual environment with deactivate.
 
 After, download [dataset](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud?resource=download).
 
 ### Links
 
-- [Dataset](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud?resource=download)
+- [Original Dataset](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud?resource=download)
 - [Medium Article](https://towardsdatascience.com/credit-card-fraud-detection-9bc8db79b956)
+
+### Licence: MIT 2.0
 
 ### Contribution
 
 <a href="https://github.com/carloshgbdev/deteccao-de-fraude/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=carloshgbdev/deteccao-de-fraude" />
 </a>
-
-Pedro Saraiva | Carlos Henrique | {commit nome do daniel} | {commit nome do frazo} | {commit nome do gabriel}
