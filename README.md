@@ -91,7 +91,8 @@ After, download [dataset](https://www.kaggle.com/datasets/mlg-ulb/creditcardfrau
   <img src="https://contrib.rocks/image?repo=carloshgbdev/deteccao-de-fraude" />
 </a>
 
-[![](https://opencollective.com/html-react-parser/contributors.svg?width=890&button=false)]([[https://github.com/remarkablemark/html-react-parser/graphs/contributors]
-
+<a href="https://github.com/carloshgbdev/deteccao-de-fraude/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=carloshgbdev/deteccao-de-fraude" />
+</a>
 
 Carlos Henrique | Pedro Saraiva | Guilherme Frazão | Daniel Henrique | Gabriel Macedo
