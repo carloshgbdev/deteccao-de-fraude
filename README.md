@@ -90,4 +90,5 @@ After, download [dataset](https://www.kaggle.com/datasets/mlg-ulb/creditcardfrau
 <a href="https://github.com/carloshgbdev/deteccao-de-fraude/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=carloshgbdev/deteccao-de-fraude" />
 </a>
+
 Carlos Henrique | Pedro Saraiva | Guilherme Frazão | {} | {}
